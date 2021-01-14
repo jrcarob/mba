@@ -49,7 +49,7 @@ tabl <- "  ### Calendario de Fechas
 | | Jueves, 04 febrero        | 18:00-20:00  |
 | **Semana VII**       | **Martes, 9 febrero**        | **18:00-20:00**  |
 | | Jueves,11 febrero        | 18:00-20:00  |
-| **Examen Final** |  **Martes, 16 febrero**        |  |
+| **Examen Final** |  **Martes, 19 febrero**        |  |
 "
 cat(tabl) # output the table in a format good for HTML/PDF/docx conversion
 ```
