@@ -1,24 +1,23 @@
 ---
-title: "Técnicas Estadísticas Aplicadas a la Gestión de Empresas (MBA 2020-2021)"
-author: "Profesor José Rafael Caro Barrera"
+title: "Técnicas Estadísticas Aplicadas a la Gestión de Empresas (MBA 2023-2024)"
+author: "Profesora María de los Baños García-Moreno García"
 output: rmdformats::readthedown
 ---
 ## Contacto
 
-#### _Coordinadora y Profesora: María de los Baños García-Moreno García_
+#### Coordinadora y Profesora: 
+#### _Dra. María de los Baños García-Moreno García_
 
-**Despacho:** Facultad de Derecho y Empresariales, Área de Estadística, Econometría e I. O., 1era Planta.
+**Despacho:** Facultad de Derecho y CC Económicas y Empresariales. Área de Estadística, Econometría e I. O., 1era Planta.
 
 **Email:** d52gagam@uco.es
 
 ### Horas de Consulta y Tutorías
 
-Estoy disponible siempre en el correo electrónico y contesto con la máxima rapidez que puedo, inclusive durante el periodo vacacional, que comprende desde el 23 de Diciembre hasta el 6 de enero, por lo que fuera de este periodo, mis horas de tutorías son:
-
 #### Martes de 11:30-13:00
 #### Jueves de 10:30-12:00
 
-O previa cita a cualquier otro día y hora. Se tiene completa libertad para contactar a cualquier día y hora y cualquier cita será bienvenida.
+Cualquier otro día y hora previa consulta para disponibilidad.
 
 ### Forum del Curso
 
@@ -27,28 +26,24 @@ Aparte de resolver cualquier tipo de duda tanto en clase como por correo siempre
 
 ## Información y Fechas del Curso
 
-**Lugar:** Sistema de docencia On-line Plataforma Cisco Webex de la Universidad de Córdoba. [Enlace](https//ucordoba.webex.com/meet/master.mba)
+**Lugar:** Seminario y Sala de Másteres 1 - Facultad de Derecho y CC Económicas y Empresariales
 
 * Se ha organizado el curso en los siguientes módulos semanales.
 
 ```{r table2, echo=FALSE, message=FALSE, warnings=FALSE, results='asis'}
 tabl <- "  ### Calendario de Fechas
-| Semana I       | Martes, 15 diciembre        | 18:00-20:00  |
+| Semana I      | Martes, 18 diciembre | 18:00-20:00  |
 |---------------|:-------------:|------:|
-| | Jueves, 17 diciembre        | 18:00-20:00  |
-| **Semana II**       | **Martes, 22 diciembre**        | **18:00-20:00**  |
-| | Jueves, 7 enero        | 18:00-20:00  |
-| **Semana III**       | **Martes, 12 enero**        | **18:00-20:00**  |
-| | Jueves, 14 enero        | 18:00-20:00  |
-| **Semana IV**       | **Martes, 19 enero**        | **18:00-20:00**  |
-| | Jueves, 21 enero        | 18:00-20:00  |
-| **Semana V**       | **Martes, 26 enero**        | **18:00-20:00**  |
-| | Jueves, 28 enero        | 18:00-20:00  |
-| **Semana VI**       | **Martes, 02 febrero**        | **18:00-20:00**  |
-| | Jueves, 04 febrero        | 18:00-20:00  |
-| **Semana VII**       | **Martes, 9 febrero**        | **18:00-20:00**  |
-| | Jueves,11 febrero        | 18:00-20:00  |
-| **Examen Final** |  **Martes, 19 febrero**        |  |
+| | Miércoles, 19 diciembre        | 18:00-20:00  |
+| **Semana II**       | **Martes, X enero**        | **18:00-20:00**  |
+| | Jueves, X enero        | 18:00-20:00  |
+| **Semana III**       | **Martes, X enero**        | **18:00-20:00**  |
+| | Jueves, X enero        | 18:00-20:00  |
+| **Semana IV**       | **Martes, X febrero**        | **18:00-20:00**  |
+| | Jueves, X febrero        | 18:00-20:00  |
+| **Semana V**       | **Martes, X febrero**        | **18:00-20:00**  |
+| | Jueves, X febrero        | 18:00-20:00  |
+| **Examen Final** |  **Martes, X febrero**        |  |
 "
 cat(tabl) # output the table in a format good for HTML/PDF/docx conversion
 ```
@@ -131,7 +126,7 @@ La nota estará compuesta por los siguientes instrumentos de evaluación:
 
 ### Participación y Asistencia
 
-No se exige la asistencia de forma obligatoria, sin embargo, se espera que el alumno permanezca en clase y concentrado hasta que haya terminado todas sus actividades y asignaciones.
+No se exige la asistencia de forma obligatoria, sin embargo, se espera que el alumno que asista a clase permanezca en ella de forma activa y se implique en la dinámica de la clase ya que se fomentará la participación.
 
 
 ### Diversidad e Inclusión
