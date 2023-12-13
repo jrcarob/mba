@@ -36,14 +36,14 @@ tabl <- "  ### Calendario de Fechas
 |---------------|:-------------:|------:|
 | | Miércoles, 20 diciembre        | 18:00-20:00  |
 | **Semana II**       | **Lunes, 8 enero**        | **18:00-20:00**  |
-| | Martes, 9 enero        | 18:00-20:00  |
+| | Jueves, 11 enero        | 18:00-20:00  |
 | **Semana III**       | **Martes, 16 enero**        | **18:00-20:00**  |
 | | Jueves, 18 enero        | 18:00-20:00  |
-| **Semana IV**       | **Martes, 23 febrero**        | **18:00-20:00**  |
-| | Jueves, 25 febrero        | 18:00-20:00  |
+| **Semana IV**       | **Martes, 23 enero**        | **18:00-20:00**  |
+| | Jueves, 25 enero        | 18:00-20:00  |
 | **Semana V**       | **Martes, 30 enero**        | **18:00-20:00**  |
 | | Jueves, 1 febrero        | 18:00-20:00  |
-| **Semana VI**       | **Martes, 6 enero**        | **18:00-20:00**  |
+| **Semana VI**       | **Martes, 6 febrero**        | **18:00-20:00**  |
 | | Jueves, 8 febrero        | 18:00-20:00  |
 | **Semana VII**       | **Martes, 13 enero**        | **18:00-20:00**  |
 | | Jueves, 15 febrero        | 18:00-20:00  |
