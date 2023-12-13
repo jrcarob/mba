@@ -5,12 +5,11 @@ output: rmdformats::readthedown
 ---
 ## Contacto
 
-#### _Coordinadora: María Isabel Sánchez Rodríguez_
-#### Profesor: José Rafael Caro Barrera
+#### _Coordinadora y Profesora: María de los Baños García-Moreno García_
 
-**Despacho:** Campus Universitario de Rabanales, Edif. C2 - 2a Planta
+**Despacho:** Facultad de Derecho y Empresariales, Área de Estadística, Econometría e I. O., 1era Planta.
 
-**Email:** jrcaro@uco.es
+**Email:** d52gagam@uco.es
 
 ### Horas de Consulta y Tutorías
 
@@ -23,7 +22,7 @@ O previa cita a cualquier otro día y hora. Se tiene completa libertad para cont
 
 ### Forum del Curso
 
-Aparte de resolver cualquier tipo de duda tanto en clase como por correo siempre, puede ser que alguna de las dudas sea de interés general. Para preguntas de este tipo, como aclaraciones del curso o preguntas conceptuales, suelen funcionar bien y ser de utilidad los foros de discusión, ya que además promueve la participación activa de los estudiantes, por lo que se invita a utilizar el [foro de discusión de cada bloque](https://moodle.uco.es/m2021/course/view.php?id=3378#section-1).
+Aparte de resolver cualquier tipo de duda tanto en clase como por correo siempre, puede ser que alguna de las dudas sea de interés general. Para preguntas de este tipo, como aclaraciones del curso o preguntas conceptuales, suelen funcionar bien y ser de utilidad los foros de discusión, ya que además promueve la participación activa de los estudiantes, por lo que se invita a utilizar el [foro de discusión de cada bloque](https://moodle.uco.es/m2324).
 
 
 ## Información y Fechas del Curso
