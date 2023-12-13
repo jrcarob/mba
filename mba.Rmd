@@ -32,18 +32,22 @@ Aparte de resolver cualquier tipo de duda tanto en clase como por correo siempre
 
 ```{r table2, echo=FALSE, message=FALSE, warnings=FALSE, results='asis'}
 tabl <- "  ### Calendario de Fechas
-| Semana I      | Martes, 18 diciembre | 18:00-20:00  |
+| Semana I      | Lunes, 18 diciembre | 18:00-20:00  |
 |---------------|:-------------:|------:|
-| | Miércoles, 19 diciembre        | 18:00-20:00  |
-| **Semana II**       | **Martes, X enero**        | **18:00-20:00**  |
-| | Jueves, X enero        | 18:00-20:00  |
-| **Semana III**       | **Martes, X enero**        | **18:00-20:00**  |
-| | Jueves, X enero        | 18:00-20:00  |
-| **Semana IV**       | **Martes, X febrero**        | **18:00-20:00**  |
-| | Jueves, X febrero        | 18:00-20:00  |
-| **Semana V**       | **Martes, X febrero**        | **18:00-20:00**  |
-| | Jueves, X febrero        | 18:00-20:00  |
-| **Examen Final** |  **Martes, X febrero**        |  |
+| | Miércoles, 20 diciembre        | 18:00-20:00  |
+| **Semana II**       | **Lunes, 8 enero**        | **18:00-20:00**  |
+| | Martes, 9 enero        | 18:00-20:00  |
+| **Semana III**       | **Martes, 16 enero**        | **18:00-20:00**  |
+| | Jueves, 18 enero        | 18:00-20:00  |
+| **Semana IV**       | **Martes, 23 febrero**        | **18:00-20:00**  |
+| | Jueves, 25 febrero        | 18:00-20:00  |
+| **Semana V**       | **Martes, 30 enero**        | **18:00-20:00**  |
+| | Jueves, 1 febrero        | 18:00-20:00  |
+| **Semana VI**       | **Martes, 6 enero**        | **18:00-20:00**  |
+| | Jueves, 8 febrero        | 18:00-20:00  |
+| **Semana VII**       | **Martes, 13 enero**        | **18:00-20:00**  |
+| | Jueves, 15 febrero        | 18:00-20:00  |
+| **Examen Final** |  **Pendiente de fijar**        |  |
 "
 cat(tabl) # output the table in a format good for HTML/PDF/docx conversion
 ```
