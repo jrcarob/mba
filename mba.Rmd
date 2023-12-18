@@ -8,16 +8,17 @@ output: rmdformats::readthedown
 #### Coordinadora y Profesora: 
 #### _Dra. María de los Baños García-Moreno García_
 
-**Despacho:** Facultad de Derecho y CC Económicas y Empresariales. Área de Estadística, Econometría e I. O., 1era Planta.
+**Despacho:** Área de Estadística, Econometría e Investigación Operativa, 1era Planta.</br> 
+Facultad de Derecho y CC Económicas y Empresariales,
+
 
 **Email:** d52gagam@uco.es
 
 ### Horas de Consulta y Tutorías
 
-#### Martes de 11:30-13:00
-#### Jueves de 10:30-12:00
+Por definir.
 
-Cualquier otro día y hora previa consulta para disponibilidad.
+<!--- Cualquier otro día y hora previa consulta para disponibilidad.--->
 
 ### Forum del Curso
 
@@ -45,7 +46,7 @@ tabl <- "  ### Calendario de Fechas
 | | Jueves, 1 febrero        | 18:00-20:00  |
 | **Semana VI**       | **Martes, 6 febrero**        | **18:00-20:00**  |
 | | Jueves, 8 febrero        | 18:00-20:00  |
-| **Semana VII**       | **Martes, 13 enero**        | **18:00-20:00**  |
+| **Semana VII**       | **Martes, 13 febrero**        | **18:00-20:00**  |
 | | Jueves, 15 febrero        | 18:00-20:00  |
 | **Examen Final** |  **Pendiente de fijar**        |  |
 "
@@ -88,36 +89,45 @@ En este primer bloque sentaremos las bases del análisis estadístico, qué es y
 
 En el segundo bloque ya nos adentraremos en el análisis de datos propiamente dicho, veremos cómo trabajar con un conjunto de datos bien fabricados por nosotros o importados en otro formato ajeno al entorno SPSS y los diferentes tipos de análisis descriptivo que podemos realizar con ellos en función de las necesidades que tengamos.
 
-Al finalizar el _bloque 2_ se realizará el **Test de Autoevaluación o Caso Práctico I**, como parte de la evaluación continua, un test que consistirá en preguntas 
+<!--- Al finalizar el _bloque 2_ se realizará el **Test de Autoevaluación o Caso Práctico I**, como parte de la evaluación continua, un test que consistirá en preguntas. --->
 
 * #### Bloque III: De lo Particular a lo General: La Inferencia Estadística
 
 Seguimos avanzando en nuestro recorrido por la estadística y a partir de una muestra, veremos cómo generar los modelos, inferencias y predicciones asociadas a los fenómenos que estemos analizando teniendo en cuenta la aleatoriedad de las observaciones para modelizar patrones en los datos y extraer conclusiones acerca de la población objeto de estudio.
 
-El _bloque 3_ termina con el **Test de Autoevaluación o Caso Práctico II**.
+<!--- El _bloque 3_ termina con el **Test de Autoevaluación o Caso Práctico II**.--->
 
 * #### Bloque IV: Explicando el Comportamiento: Regresión y Diseño de Experimentos
 
 Los modelos causales determinan la relación de dependencia entre variables. Aquí veremos cómo en numerosas situaciones prácticas una o varias variables influyen en los valores de otra u otras y su forma de analizarlas para explicar su comportamiento.
 
-El _bloque 4_ culmina con el **Test de Autoevaluación o Caso Práctico III**.
+<!--- El _bloque 4_ culmina con el **Test de Autoevaluación o Caso Práctico III**. --->
 
 * #### Bloque V: Relaciones entre Conjuntos de Variables: Análisis Multivariante
 
 En el último bloque de la asignatura veremos algunas técnicas de análisis multivariante utilizadas cuando el análisis estadístico uni y bidimensional no se pueden aplicar,  estas técnicas se aplican en áreas muy diferentes y ayudan al analista o investigador a tomar decisiones óptimas en el contexto en el que se encuentre teniendo en cuenta la información disponible por el conjunto de datos analizado. En el ámbito que nos ocupa, las técnicas multivariantes son muy utilizadas en economía, seguros y servicios financieros.
 
-El _bloque 5_ finaliza con el **Test de Autoevaluación o Caso Práctico IV**.
+<!--- El _bloque 5_ finaliza con el **Test de Autoevaluación o Caso Práctico IV**. 
 
 ## Actividades y Tests de Autoevaluación
 
 Al finalizar cada bloque habrá un _Test de Autoevaluación_ o _Actividad Práctica_ dependiendo de la materia que se haya visto, a modo de ir conformando la nota para el 50% de la evaluación continua. Normalmente se realizará en la hora de clase; si es un _test de autoevaluación_ se abrirá el test a una hora determinada, siempre dentro de la hora lectiva y se dará el suficiente tiempo como para que pueda ser completado. Si es una actividad práctica con SPSS, se abrirá una tarea para que se pueda subir el archivo con los resultados, con un periodo de gracia posterior a la finalización de la clase.
 
 Se pretende que haya **4 actividades que formen la evaluación continua**, cada una con una ponderación del 25%.
-
+--->
 
 ## Evaluación
-La nota estará compuesta por los siguientes instrumentos de evaluación:
+La nota final estará compuesta por los siguientes instrumentos de evaluación:
 
+
+| Instrumentos|Porcentaje|
+| -------- | :-------|
+| Informes/memorias de prácticas  | 20% |
+| Pruebas de respuesta corta  | 20% |
+| Pruebas de respuesta larga (desarrollo) | 20% |
+| Realización de prácticas con ordenador  | 40% |
+
+<!---
 - **50% Actividades Prácticas y/o Tests de Autoevaluación**, al finalizar los bloques:
   - Bloque II: 25%
   - Bloque III: 25%
@@ -125,17 +135,18 @@ La nota estará compuesta por los siguientes instrumentos de evaluación:
   - Bloque V: 25%
   
 - **50% Examen Final**
- 
+--->
+
 ## Código de Conducta
 
 ### Participación y Asistencia
 
-No se exige la asistencia de forma obligatoria, sin embargo, se espera que el alumno que asista a clase permanezca en ella de forma activa y se implique en la dinámica de la clase ya que se fomentará la participación.
+No se exige la asistencia de forma obligatoria, sin embargo, se espera que el alumno que asista a clase permanezca en ella de forma activa y se implique en la dinámica de la misma ya que se fomentará la participación.
 
 
 ### Diversidad e Inclusión
 
-El objetivo es que todo el asistente se sienta cómodo durante el desarrollo de las clases. Si hay alguna forma de hacer que el curso sea más acogedor, por favor, no dude en preguntar.
+El objetivo es que todo el asistente se sienta cómodo durante el desarrollo de las clases. Si hay alguna forma de hacer que el curso sea más acogedor, por favor, no dudéis en plantearlo.
 
 En particular, si se tiene alguna discapacidad, se facilitará la accesibilidad a la clase.
 
